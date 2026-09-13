@@ -6,5 +6,5 @@ listing:
   type: default
 ---
 
-[My First Weeks in MDS](posts/first-weeks.qmd)
+[My First Weeks in MDS](posts/first-weeks/index.qmd)
 

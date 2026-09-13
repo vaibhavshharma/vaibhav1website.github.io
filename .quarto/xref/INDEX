@@ -1,14 +1,14 @@
 {
+  "posts/first-weeks/index.qmd": {
+    "index.html": "a7613bfd"
+  },
   "index.qmd": {
-    "index.html": "4d64ec35"
+    "index.html": "75a45f61"
   },
   "about.qmd": {
-    "about.html": "b2590523"
-  },
-  "posts/first-weeks/index.qmd": {
-    "index.html": "acd46cfe"
+    "about.html": "31104440"
   },
   "blog.qmd": {
-    "blog.html": "4b4c970e"
+    "blog.html": "4487bb81"
   }
 }

@@ -1,5 +1,33 @@
 [
   {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "My First Weeks in MDS\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMy First Weeks in MDS\n\n\n\n\n\n\n\n\nSep 13, 2026\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "VAIBHAV’s website",
+    "section": "",
+    "text": "# WELCOME!\nThis is a Quarto website."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "VAIBHAV’s website",
+    "section": "ABOUT ME",
+    "text": "ABOUT ME\nHi everyone, I’m Vaibhav. I’ve completed my Bachelor’s in Technology, with a major in Information Technology. After that, I worked as a Data Analyst. I’m really excited to be here at UBC for the Master of Data Science program and looking forward to learning new things, meeting everyone, and building my skills in data science."
+  },
+  {
+    "objectID": "posts/first-weeks/index.html",
+    "href": "posts/first-weeks/index.html",
+    "title": "My First Weeks in MDS",
+    "section": "",
+    "text": "Starting the Master of Data Science program at UBC was an exciting and slightly overwhelming experience. Orientation week introduced me to my cohort, the course structure, and just how much there is to learn in the coming months.\nBetween setting up my development environment, learning Git and GitHub workflows in DSCI 521, and meeting classmates from all kinds of backgrounds, the first few weeks have been a whirlwind — but a good one."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -47,40 +75,5 @@
     "title": "About",
     "section": "Looking Forward",
     "text": "Looking Forward\nI’m looking forward to seeing how my skills grow throughout the program. My goal is to bring together my analytics background with the technical training I’m gaining at UBC, and use both to solve real, meaningful problems with data."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "VAIBHAV’s website",
-    "section": "",
-    "text": "# WELCOME!\nThis is a Quarto website."
-  },
-  {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
-    "title": "VAIBHAV’s website",
-    "section": "ABOUT ME",
-    "text": "ABOUT ME\nHi everyone, I’m Vaibhav. I’ve completed my Bachelor’s in Technology, with a major in Information Technology. After that, I worked as a Data Analyst. I’m really excited to be here at UBC for the Master of Data Science program and looking forward to learning new things, meeting everyone, and building my skills in data science."
-  },
-  {
-    "objectID": "posts/first-weeks/index.html",
-    "href": "posts/first-weeks/index.html",
-    "title": "My First Weeks in MDS",
-    "section": "",
-    "text": "Starting the Master of Data Science program at UBC was an exciting and slightly overwhelming experience. Orientation week introduced me to my cohort, the course structure, and just how much there is to learn in the coming months.\nBetween setting up my development environment, learning Git and GitHub workflows in DSCI 521, and meeting classmates from all kinds of backgrounds, the first few weeks have been a whirlwind — but a good one."
-  },
-  {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Blog",
-    "section": "",
-    "text": "My First Weeks in MDS\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMy First Weeks in MDS\n\n\n\n\n\n\n\n\nSep 13, 2026\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "blog.html#blog",
-    "href": "blog.html#blog",
-    "title": "Blog",
-    "section": "",
-    "text": "My First Weeks in MDS\nStarting the Master of Data Science program at UBC was an exciting and slightly overwhelming experience. Orientation week introduced me to my cohort, the course structure, and just how much there is to learn in the coming months…"
   }
 ]
